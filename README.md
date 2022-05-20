@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jessieonthebeach
-- 👀 I’m interested in ... a man who would like  to have a cup of tea with me
-- 🌱 I’m currently learning ... Java languages
+- 👀 I’m interested in ... JavaScript
+- 🌱 I’m currently learning ... MySQL
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... tngus333333@gmail.com
 
